@@ -1,4 +1,4 @@
-# NYC_AIRBNB_PRICING_PREDICTIONS
+# NYC_AirBnb_Pricing_Predictions
 
 
 ## Introduction:
